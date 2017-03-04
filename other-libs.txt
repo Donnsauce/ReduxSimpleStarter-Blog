@@ -1,0 +1,3 @@
+Redux-Thunk - gives access to the dispatch method (middleware) for async calls. - Lecture 98
+Redux-Form -  - Lecture 100
+Reselect -  - Lecture 101
