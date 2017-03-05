@@ -1,3 +1,8 @@
 Redux-Thunk - gives access to the dispatch method (middleware) for async calls. - Lecture 98
 Redux-Form -  - Lecture 100
-Reselect -  - Lecture 101
+Reselect - install redux devtools - Lecture 101
+DataLoading w/ redux before component is entered - Lecture 102
+React Animations - Lecture 103
+modals - Lecture 105
+simplified reducer - Lecture 106
+# vs browserHitory, setup simple express server - Lecture 107
